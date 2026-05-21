@@ -2,7 +2,7 @@
 
 This repository contains the code, experiments, and documentation for my Master’s thesis:
 
-**Title:** Addressing Biases in Sentiment Analysis Models Using Transfer Learning  
+**Title:** Bias Mitigation in Sentiment Analysis Using BERT with Fairness Techniques
 **Author:** Anup Katuwal  
 **Degree:** Master of Computer Information Systems  
 **Institution:** Nepal College of Information and Technology (NCIT), Pokhara University (PU)
