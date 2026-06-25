@@ -169,3 +169,8 @@ Released for **academic and research purposes only**. Dataset content is scraped
 - **Principal, NCIT:** Mr. Niranjan Khakurel
 - The open-source mental health communities on Reddit whose posts made this research possible
 - HuggingFace Transformers, PRAW, and Google Colab
+
+## 🔗 Portfolio
+
+Featured on my portfolio: **[https://anup-katuwal.com.np/projects/thesis](https://anup-katuwal.com.np/projects/thesis)**  
+More of my work → [anup-katuwal.com.np](https://anup-katuwal.com.np)
